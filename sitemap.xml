@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/projects/emulator-platform/</loc>
+<lastmod>2017-10-22T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/projects/sphere-balance/</loc>
+<lastmod>2017-10-17T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/projects/secure-messaging/</loc>
+<lastmod>2017-10-09T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/projects/detect-decode-qr/</loc>
+<lastmod>2017-10-02T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/projects/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+</urlset>

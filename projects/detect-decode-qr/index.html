@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Detecting and Decoding QR Codes using OpenCV • Nuno Humberto</title>
+    <meta name="description" content="The process of reading a QR code in my first contact with OpenCV.">
+    <meta name="keywords" content="">
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Detecting and Decoding QR Codes using OpenCV">
+	<meta name="twitter:description" content="The process of reading a QR code in my first contact with OpenCV.">
+	
+	
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="/images/qrcode_feature.png">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="en">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Detecting and Decoding QR Codes using OpenCV">
+	<meta property="og:description" content="The process of reading a QR code in my first contact with OpenCV.">
+	<meta property="og:url" content="/projects/detect-decode-qr/">
+	<meta property="og:site_name" content="Nuno Humberto">
+
+    <link rel="canonical" href="/projects/detect-decode-qr/">
+
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Nuno Humberto Atom Feed">
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="/js/vendor/html5shiv.min.js"></script>
+      <script src="/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body id="js-body">
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="/" class="site-title">Nuno Humberto</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Nuno Humberto</a></li>
+	
+    
+    <li><a href="/projects/" >Projects</a></li>
+  
+    
+    <li><a href="" >Research</a></li>
+  
+    
+    <li><a href="" >Recent Work</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+    <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <h5>Nuno Humberto <span>Table of Contents</span></h5>
+  <ul class="menu-item">
+    <li>
+      <a href="/projects/">
+        
+        <div class="title">Projects</div>
+        
+      </a>
+    </li><li>
+      <a href="">
+        
+        <div class="title">Research</div>
+        
+      </a>
+    </li><li>
+      <a href="">
+        
+        <div class="title">Recent Work</div>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+
+
+    <div id="page-wrapper">
+      <div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="/images/qrcode_feature.png" class="page-feature-image" alt="Detecting and Decoding QR Codes using OpenCV" itemprop="image">
+				
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		
+		
+  <nav class="breadcrumbs">
+    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="" itemprop="url">
+        <span itemprop="title">Home</span>
+      </a> › 
+    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="/projects/" itemprop="url">
+        <span itemprop="title">Projects</span>
+      </a>
+    </span>
+  </nav><!-- /.breadcrumbs -->
+
+		<div class="page-title">
+			<h1>Detecting and Decoding QR Codes using OpenCV</h1>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+				<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory - edit this post and re-build (or run with the <code class="highlighter-rouge">-w</code> switch) to see your changes!
+To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+
+<nav class="toc">
+<ul id="markdown-toc">
+  <li><a href="#sample-heading" id="markdown-toc-sample-heading">Sample Heading</a></li>
+</ul>
+
+</nav>
+
+<h2 id="sample-heading">Sample Heading</h2>
+
+<h3 id="sample-heading-2">Sample Heading 2</h3>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span>
+</code></pre>
+</div>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>.</p>
+
+
+				<hr />
+				<footer class="page-footer">
+					
+
+<div class="author-image">
+	<img src="/images/bio-photo.jpg" alt="Nuno Humberto">
+</div><!-- ./author-image -->
+<div class="author-content">
+	<h3 class="author-name" >Written by <span itemprop="author">Nuno Humberto</span></h3>
+	<p class="author-bio">Biography</p>
+</div><!-- ./author-content -->
+					
+					<div class="page-meta">
+	<p>Updated <time datetime="2016-06-01T21:28:57Z" itemprop="dateModified">June 01, 2016</time>
+</div><!-- /.page-meta -->
+				</footer><!-- /.footer -->
+				<aside>
+					
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		
+	</article><!-- ./wrap -->
+</div><!-- /#main -->
+
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+			<li><a href="" ></a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2017 <a href="">Nuno Humberto</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
+</footer>
+    </div>
+
+    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="/js/main.js"></script>
+
+  </body>
+
+</html>
