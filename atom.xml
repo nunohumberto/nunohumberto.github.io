@@ -1,121 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-24T03:03:42+01:00</updated><id>/</id><title>Nuno Humberto</title><subtitle>My recent work and projects.</subtitle><entry><title>Multi-console Online Retro Emulator Plaform</title><link href="/projects/emulator-platform/" rel="alternate" type="text/html" title="Multi-console Online Retro Emulator Plaform" /><published>2017-10-22T00:00:00+01:00</published><updated>2017-10-22T00:00:00+01:00</updated><id>/projects/emulator-platform</id><content type="html" xml:base="/projects/emulator-platform/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;nav class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-24T04:06:04+01:00</updated><id>/</id><title>Nuno Humberto</title><subtitle>My recent work and projects.</subtitle><entry><title>Multi-console Online Retro Emulator Plaform</title><link href="/projects/emulator-platform/" rel="alternate" type="text/html" title="Multi-console Online Retro Emulator Plaform" /><published>2017-10-22T00:00:00+01:00</published><updated>2017-10-22T00:00:00+01:00</updated><id>/projects/emulator-platform</id><content type="html" xml:base="/projects/emulator-platform/">&lt;nav class=&quot;toc&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#sample-heading&quot; id=&quot;markdown-toc-sample-heading&quot;&gt;Sample Heading&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/nav&gt;
 
-&lt;h2 id=&quot;sample-heading&quot;&gt;Sample Heading&lt;/h2&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;h3 id=&quot;sample-heading-2&quot;&gt;Sample Heading 2&lt;/h3&gt;
+&lt;p&gt;This web application allows users to play several titles which belong to retro consoles.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content><summary>Upload your NES/GB/GBC/GBA ROMs and play them in your browser!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;emuproj.png&quot;, &quot;feature&quot;=&gt;&quot;emuproj_feature.png&quot;}" /></entry><entry><title>Balancing a Sphere Using a Mobile Device</title><link href="/projects/sphere-balance/" rel="alternate" type="text/html" title="Balancing a Sphere Using a Mobile Device" /><published>2017-10-17T00:00:00+01:00</published><updated>2017-10-17T00:00:00+01:00</updated><id>/projects/sphere-balance</id><content type="html" xml:base="/projects/sphere-balance/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;nav class=&quot;toc&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#sample-heading&quot; id=&quot;markdown-toc-sample-heading&quot;&gt;Sample Heading&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/nav&gt;
-
-&lt;h2 id=&quot;sample-heading&quot;&gt;Sample Heading&lt;/h2&gt;
-
-&lt;h3 id=&quot;sample-heading-2&quot;&gt;Sample Heading 2&lt;/h3&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content><summary>Using a mobile phone or tablet to control 3D elements at a web endpoint of your choice.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;boltab.png&quot;, &quot;feature&quot;=&gt;&quot;boltab_feature.png&quot;}" /></entry><entry><title>Secure Message Service with End-to-End Encryption and Smartcard Support</title><link href="/projects/secure-messaging/" rel="alternate" type="text/html" title="Secure Message Service with End-to-End Encryption and Smartcard Support" /><published>2017-10-09T00:00:00+01:00</published><updated>2017-10-09T00:00:00+01:00</updated><id>/projects/secure-messaging</id><content type="html" xml:base="/projects/secure-messaging/">&lt;p&gt;In an attempt to address the&lt;/p&gt;
-
-&lt;nav class=&quot;toc&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#cupidatat-90s-lo-fi-authentic-try-hard&quot; id=&quot;markdown-toc-cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#forage-occaecat-cardigan-qui&quot; id=&quot;markdown-toc-forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hoodie-duis&quot; id=&quot;markdown-toc-hoodie-duis&quot;&gt;Hoodie Duis&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/nav&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
+&lt;p&gt;At the moment, the following consoles are supported:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage&lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
+  &lt;li&gt;NES&lt;/li&gt;
+  &lt;li&gt;Gameboy&lt;/li&gt;
+  &lt;li&gt;Gameboy Color&lt;/li&gt;
+  &lt;li&gt;Gameboy Advance&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
+&lt;p&gt;The platform automatically detects uploaded ROMs and crawls &lt;a href=&quot;http://nintendo.wikia.com&quot;&gt;Nintendo Wikia&lt;/a&gt; for title information.&lt;/p&gt;
 
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
+&lt;p&gt;This page is a WIP! Expect to see some updates soon!&lt;/p&gt;
 
-&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
 
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;</content><summary>Featuring ECDHE key exchange, AES encryption and PSS signatures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;firstproj.png&quot;, &quot;feature&quot;=&gt;&quot;firstproj_feature.png&quot;}" /></entry><entry><title>Detecting and Decoding QR Codes using OpenCV</title><link href="/projects/detect-decode-qr/" rel="alternate" type="text/html" title="Detecting and Decoding QR Codes using OpenCV" /><published>2017-10-02T00:00:00+01:00</published><updated>2017-10-02T00:00:00+01:00</updated><id>/projects/detect-decode-qr</id><content type="html" xml:base="/projects/detect-decode-qr/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;nav class=&quot;toc&quot;&gt;
+&lt;p&gt;All developed code can be found &lt;a href=&quot;https://github.com/nunohumberto/retrolounge&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><summary>Upload your NES/GB/GBC/GBA ROMs and play them in your browser!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;emuproj.png&quot;, &quot;feature&quot;=&gt;&quot;emuproj_feature.png&quot;}" /></entry><entry><title>Balancing a Sphere Using a Mobile Device</title><link href="/projects/sphere-balance/" rel="alternate" type="text/html" title="Balancing a Sphere Using a Mobile Device" /><published>2017-10-17T00:00:00+01:00</published><updated>2017-10-17T00:00:00+01:00</updated><id>/projects/sphere-balance</id><content type="html" xml:base="/projects/sphere-balance/">&lt;nav class=&quot;toc&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#sample-heading&quot; id=&quot;markdown-toc-sample-heading&quot;&gt;Sample Heading&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/nav&gt;
 
-&lt;h2 id=&quot;sample-heading&quot;&gt;Sample Heading&lt;/h2&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;h3 id=&quot;sample-heading-2&quot;&gt;Sample Heading 2&lt;/h3&gt;
+&lt;p&gt;Simple demonstration which enables you to control 3D elements using your mobile phone or tablet.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;The live simulation becomes available at a web endpoint of your choice.&lt;/p&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;p&gt;It mimics the movements you apply to your mobile device and challenges you to keep a sphere balanced on a horizontal plane.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content><summary>The process of reading a QR code in my first contact with OpenCV.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;qrcode.png&quot;, &quot;feature&quot;=&gt;&quot;qrcode_feature.png&quot;}" /></entry></feed>
+&lt;p&gt;Rudimentary physics and collision detection are used to simulate the interaction of the involved elements.&lt;/p&gt;
+
+&lt;p&gt;This small project represents my first contact with both WebGL, node.js and WebSockets.&lt;/p&gt;
+
+&lt;p&gt;This page is a WIP! Expect to see some updates soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;All developed code can be found &lt;a href=&quot;https://github.com/nunohumberto/spherebalance&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><summary>Using a mobile phone or tablet to control 3D elements at a web endpoint of your choice.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;boltab.png&quot;, &quot;feature&quot;=&gt;&quot;boltab_feature.png&quot;}" /></entry><entry><title>Secure Message Service with End-to-End Encryption and Smartcard Support</title><link href="/projects/secure-messaging/" rel="alternate" type="text/html" title="Secure Message Service with End-to-End Encryption and Smartcard Support" /><published>2017-10-09T00:00:00+01:00</published><updated>2017-10-09T00:00:00+01:00</updated><id>/projects/secure-messaging</id><content type="html" xml:base="/projects/secure-messaging/">&lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Python-based message service featuring end-to-end encryption.&lt;/p&gt;
+
+&lt;p&gt;In this message service, all users authenticate themselves using their Portuguese Citizen Card.
+This service uses ECDHE for key exchanges, AES for message ciphering and the PSS signature scheme.&lt;/p&gt;
+
+&lt;p&gt;The system as a whole has been designed to enable the following features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Message authentication, confidentiality, and integrity.&lt;/li&gt;
+  &lt;li&gt;Forward and backward secrecy.&lt;/li&gt;
+  &lt;li&gt;Identity preservation.&lt;/li&gt;
+  &lt;li&gt;Destination validation.&lt;/li&gt;
+  &lt;li&gt;Support for cipherspec negotiation.&lt;/li&gt;
+  &lt;li&gt;Conversation and participant consistency.&lt;/li&gt;
+  &lt;li&gt;Implementation of an information flow policy (Bell-LaPadula).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This page is a WIP! Expect to see some updates soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;All developed code can be found &lt;a href=&quot;https://github.com/nunohumberto/securechat&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><summary>Featuring ECDHE key exchange, AES encryption and PSS signatures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;firstproj.png&quot;, &quot;feature&quot;=&gt;&quot;firstproj_feature.png&quot;}" /></entry><entry><title>Detecting and Decoding QR Codes using OpenCV</title><link href="/projects/detect-decode-qr/" rel="alternate" type="text/html" title="Detecting and Decoding QR Codes using OpenCV" /><published>2017-10-02T00:00:00+01:00</published><updated>2017-10-02T00:00:00+01:00</updated><id>/projects/detect-decode-qr</id><content type="html" xml:base="/projects/detect-decode-qr/">&lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;My first contact with OpenCV.&lt;/p&gt;
+
+&lt;p&gt;This tool captures frames from a locally connected webcam and proceeds to detect and decode any present QR code.&lt;/p&gt;
+
+&lt;p&gt;Although 40 different versions of QR codes currently exist, this application focuses in decoding one of the most common versions (25x25).
+All mask patterns are supported.&lt;/p&gt;
+
+&lt;p&gt;This page is a WIP! Expect to see some updates soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;All developed code can be found &lt;a href=&quot;https://github.com/nunohumberto/qrcodes&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><summary>The process of reading a QR code in my first contact with OpenCV.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;teaser&quot;=&gt;&quot;qrcode.png&quot;, &quot;feature&quot;=&gt;&quot;qrcode_feature.png&quot;}" /></entry></feed>
