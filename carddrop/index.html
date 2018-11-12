@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Item Drop Rate</title>
+		<meta charset="UTF-8"> 
+		<link rel="icon" type="image/png" href="images/icon.png" />
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<link href="css/signbox.css" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script language="javascript" type="text/javascript" src="js/flot.js"></script>
+		<script type="text/x-mathjax-config">
+			MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}});
+		</script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+		<script type="text/javascript" src="js/plotting.js"></script>
+		
+	</head>
+	<body>
+		
+		<center>
+			<div class="outer">
+				<div class="middle">
+					<div class="graphcontainer">
+						<h4>Item Drop Rate Calculator</h4>
+						<div id="placeholder"></div>
+						<br>
+						<form id="rateinput">
+							<div id="calcgroup" class="input-group">
+								<input type="text" class="form-control" placeholder="Input a drop rate (0.1 for 0.1%)" id="drop" aria-describedby="droprate">
+								  <div class="input-group-append">
+								    <button class="btn btn-dark" type="submit">Calculate</button>
+								  </div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</center>
+		<div id="signbox">
+			<h6>Nuno Humberto<br><small><a href="https://www.github.com/nunohumberto">nunohumberto</a></small></h6>
+		</div>
+		<div id="formula">
+			$$p(attempts) = {1 - \left(1 - {{drop\ rate} \over 100}\right)^{attempts}}$$
+		</div>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	</body>
+</html>
+

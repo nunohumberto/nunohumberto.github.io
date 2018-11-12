@@ -1,0 +1,55 @@
+#signbox {
+	font-family:"prstartk", serif;
+	position:absolute;
+	bottom:0px;
+	left:10px;
+}
+
+#formula {
+	position:absolute;
+	bottom:0px;
+	right:10px;
+}
+
+
+#placeholder {
+	width:800px;
+	height:500px;
+}
+
+#calcgroup {
+	width:35%;
+}
+
+@font-face{
+	font-family:'prstartk';
+	src:url("../fonts/prstartk.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal
+}
+
+body {
+	background: #FFFFFF;
+}
+
+h4 {
+	font-family:"prstartk", serif;
+}
+
+.outer {
+  display: table;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.graphcontainer {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
